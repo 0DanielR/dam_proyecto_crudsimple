@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38133152668",
+    "project_id": "u4-ejercicio3-jsonavanzado",
+    "storage_bucket": "u4-ejercicio3-jsonavanzado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38133152668:android:898eaf66da55956a3ce659",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_proyectosimple"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUzEo2XDo82nchA8tQF01dww14ldj0cqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38133152668:android:8cce07edb16ca9fc3ce659",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.u4_ejercicio3_jsonavanzado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUzEo2XDo82nchA8tQF01dww14ldj0cqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
